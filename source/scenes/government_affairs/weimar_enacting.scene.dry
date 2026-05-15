@@ -21,6 +21,8 @@ Now that we are in government, it is time for us to enact our economic plan alon
 - @just_enact_1: We will not find ways to raise funds for now and simply begin with the funds that we have.
 - @just_enact_2: We will not find ways to raise funds for now and simply begin with the funds that we have.
 - @delay: We do not have the funds we need. We will have to delay pursuing of our plan.
+- @easy_discard
+- @cancel_advisor_action
 
 @taxes_1
 view-if: z_party_leader == "Kaas"
