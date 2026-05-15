@@ -24,6 +24,8 @@ Following our decision to adopt the Reformist economic plan, some have called fo
 - @sovereignty: The SPD will not compromise its status as a worker's party by entering such alliances with the bourgeois parties.
 - @delay_decision: We will delay making a decision for the time being.
 - @delay_continuation: We are not currently in a position to continue pursuing this plan.
+- @easy_discard
+- @cancel_advisor_action
 
 @canvas_1
 view-if: spd_in_government == 0 and dvp_in_government == 0 and spd_toleration == 0 and president != "Braun" and weimar_support < 100
